@@ -2,7 +2,7 @@
 title: "Assignment 1 - personal activity monitoring device data"
 author: "peter"
 date: "Thursday, June 04, 2015"
-output: html_document
+output: html_document 
 ---
 #### load data & process/transform data & explore
 *For this part of the assignment, you can ignore the missing values in the dataset.*  
